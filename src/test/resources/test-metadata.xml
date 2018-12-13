@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<combined-event>
+    <event-name>Testathlon</event-name>
+    <events>
+        <event name="Filed1">
+            <type>FIELD</type>
+            <param-a>.0002</param-a>
+            <param-b>1</param-b>
+            <param-c>1396</param-c>
+        </event>
+        <event name="Track1">
+            <type>TRACK</type>
+            <param-a>22</param-a>
+            <param-b>220.6</param-b>
+            <param-c>1</param-c>
+        </event>
+    </events>
+</combined-event>

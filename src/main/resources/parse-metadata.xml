@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<combined-event>
+    <event-name>Decathlon</event-name>
+    <events>
+        <event name="100 m">
+            <type>TRACK</type>
+            <param-a>25.4347</param-a>
+            <param-b>18</param-b>
+            <param-c>1.81</param-c>
+        </event>
+        <event name="Long jump">
+            <type>FIELD</type>
+            <param-a>0.14354</param-a>
+            <param-b>220</param-b>
+            <param-c>1.4</param-c>
+        </event>
+        <event name="Shot put">
+            <type>FIELD</type>
+            <param-a>51.39</param-a>
+            <param-b>1.5</param-b>
+            <param-c>1.05</param-c>
+        </event>
+        <event name="High jump">
+            <type>FIELD</type>
+            <param-a>0.8465</param-a>
+            <param-b>75</param-b>
+            <param-c>1.42</param-c>
+        </event>
+        <event name="400 m">
+            <type>TRACK</type>
+            <param-a>1.53775</param-a>
+            <param-b>82</param-b>
+            <param-c>1.81</param-c>
+        </event>
+        <event name="110 m hurdles">
+            <type>TRACK</type>
+            <param-a>5.74352</param-a>
+            <param-b>28.5</param-b>
+            <param-c>1.92</param-c>
+        </event>
+        <event name="Discus throw">
+            <type>FIELD</type>
+            <param-a>12.91</param-a>
+            <param-b>4</param-b>
+            <param-c>1.1</param-c>
+        </event>
+        <event name="Pole vault">
+            <type>FIELD</type>
+            <param-a>0.2797</param-a>
+            <param-b>100</param-b>
+            <param-c>1.35</param-c>
+        </event>
+        <event name="Javelin throw">
+            <type>FIELD</type>
+            <param-a>10.14</param-a>
+            <param-b>7</param-b>
+            <param-c>1.08</param-c>
+        </event>
+        <event name="1500 m">
+            <type>TRACK</type>
+            <param-a>0.03768</param-a>
+            <param-b>480</param-b>
+            <param-c>1.85</param-c>
+        </event>
+    </events>
+</combined-event>
